@@ -4,8 +4,7 @@
   "formed" : 2018,
   "secretBase" : "Super tower",
   "active" : true,
-  "members" : [
-    {
+  "members" : [{
       "name" : "韩信",
       "age" : 20,
       "称号" : "国士无双",
