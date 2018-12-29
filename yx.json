@@ -1,39 +1,41 @@
 {
-    "squadName": "王者荣耀英雄",
-    "homeTown": "王者大陆",
-    "formed": 2018,
-    "secretBase": "Super tower",
-    "active": true,
-    "members": [{
-            "name": "韩信",
-            "age": 20,
-            "称号": "国士无双",
-            "技能": [
-                "无情冲锋",
-                "背水一战",
-                "国士无双"
-            ]
-        },
-        {
-            "name": "李白",
-            "age": 21,
-            "称号": "青莲剑仙",
-            "技能": [
-                "将进酒",
-                "神来之笔",
-                "青莲剑歌"
-            ]
-        },
-        {
-            "name": "元歌",
-            "age": 22,
-            "称号": "无间傀儡",
-            "技能": [
-                "秘术.影",
-                "秘术.纸雉",
-                "秘术.十字",
-                "秘术.散"
-            ]
-        }
-    ]
+  "squadName" : "Super hero squad",
+  "homeTown" : "Metro City",
+  "formed" : 2016,
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Molecule Man",
+      "age" : 29,
+      "secretIdentity" : "Dan Jukes",
+      "powers" : [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
+    },
+    {
+      "name" : "Madame Uppercut",
+      "age" : 39,
+      "secretIdentity" : "Jane Wilson",
+      "powers" : [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+      ]
+    },
+    {
+      "name" : "Eternal Flame",
+      "age" : 1000000,
+      "secretIdentity" : "Unknown",
+      "powers" : [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    }
+  ]
 }
